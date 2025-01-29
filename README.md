@@ -10,7 +10,7 @@
 
  ## Publishing
 
-Checkout the `master` branch, and ensure it is up-to-date.
+Checkout the `main` branch, and ensure it is up-to-date.
 
 Run `npm version [major | minor | patch]` for example:
 
