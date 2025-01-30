@@ -1,9 +1,19 @@
 # iiif-av-component
 
-    npm i
-    npm run build
-    npm start
-    
+## App spin up
+
+```
+npm i
+npm run build
+npm start
+```
+
+## Run tests
+
+```
+npm run test
+```
+
  ## Example Manifests
  
  https://iiif-commons.github.io/iiif-av-component/examples/data/bl/sounds-tests/index.html
