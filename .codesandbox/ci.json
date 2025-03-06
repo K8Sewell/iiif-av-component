@@ -2,5 +2,5 @@
   "sandboxes": [
     "new"
   ],
-  "node": "22.13.9"
+  "node": "22"
 }
